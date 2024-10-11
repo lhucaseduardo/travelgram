@@ -16,6 +16,10 @@ nav ul {
     padding-block: 8px;
 }
 
+nav ul li:first-child svg:hover path{
+    fill: #EF5F4C;
+}
+
 nav ul li:last-child img {
     height: 40px;
     width: 40px;
